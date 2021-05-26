@@ -1,5 +1,11 @@
 # Change Log
 
+## 1.1.0-next.1
+
+### Patch Changes
+
+- cecc9983: Deprecate no-invalid-change-handler rule
+
 ## 1.1.0-next.0
 
 ### Minor Changes
